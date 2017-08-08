@@ -1,0 +1,28 @@
+{
+  "name": "minaolympics",
+  "version": "1.0.0",
+  "description": "Application to show how to use mongodb with Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenmannam/minaolympics.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "MongoDB",
+    "Moongoose"
+  ],
+  "author": "Naveen Mannam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naveenmannam/minaolympics/issues"
+  },
+  "homepage": "https://github.com/naveenmannam/minaolympics#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
