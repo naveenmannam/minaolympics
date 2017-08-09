@@ -1,9 +1,9 @@
 module.exports = {
 	showHome: (req, res) => {
-		res.send("This is the home page!!!");
+		res.render('pages/home');
 	},
 	showAbout: (req, res) => {
-		res.send("This is the about page!!!");
+		res.render('pages/about');
 	}
 }
 
